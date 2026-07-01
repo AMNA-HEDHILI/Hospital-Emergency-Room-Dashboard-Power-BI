@@ -1,4 +1,4 @@
-# Hospital-Emergency-Room-Dashboard-Power-BI# Hospital Emergency Room (ER) Operations Dashboard
+# Hospital-Emergency-Room-Dashboard-Power-BI
 
 A clean, end-to-end Power BI dashboard designed to transform raw emergency room logs into intuitive operational insights. This project focuses on production-ready business intelligence development principles: intuitive UI/UX design, high data scannability, and clear data storytelling.
 

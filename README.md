@@ -45,4 +45,4 @@ An integrated text narrative system that leverages built-in text-generation feat
 ## ⚙️ How to Explore the Project
 1. Clone this repository to your local machine.
 2. Ensure you have the latest version of **Power BI Desktop** installed.
-3. Open `Hospital_ER_Dashboard.pbix` to interact with the visual layers.
+3. Open `Hospital Emergency Room Dashboard.pbix` to interact with the visual layers.
